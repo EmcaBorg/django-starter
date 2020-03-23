@@ -1,0 +1,8 @@
+.git
+**/bin
+**/include
+**/lib
+Dockerfile
+.DS_Store
+.gitignore
+README.md
